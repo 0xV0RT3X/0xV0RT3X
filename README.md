@@ -1,11 +1,11 @@
-# 0xV0RT3X
+# 🌀 0xV0RT3X
 **`Programmer & Cyber-Security Enthusiast`**
 
 Welcome to my GitHub profile! I'm passionate about coding and exploring 
 various programming languages and tools. Feel free to browse through my 
 repositories and projects.
 
-## Languages
+### Languages
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
