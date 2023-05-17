@@ -16,4 +16,4 @@ repositories and projects.
 <br/>
 
 ### 📊 Stats
-![0xV0RT3X's Github stats](https://github-readme-stats.vercel.app/api?username=0xV0RT3X&show_icons=true&the)
+![0xV0RT3X's Github stats](https://github-readme-stats.vercel.app/api?username=0xV0RT3X&show_icons=true&theme=gruvbox)
