@@ -1,46 +1,21 @@
 # 🌀 0xV0RT3X
-**`Programmer & Cyber-Security Enthusiast`**
+Welcome to my GitHub profile! I'm passionate about coding and exploring various programming languages and tools. Feel free to browse through my repositories and projects.
 
-Welcome to my GitHub profile! I'm passionate about coding and exploring 
-various programming languages and tools. Feel free to browse through my 
-repositories and projects.
 
-### Languages
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/V0RT3X#2796) 
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>
-<br/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0xV0RT3X&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xV0RT3X&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xV0RT3X&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## OS
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" />
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xV0RT3X&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Technologies & Frameworks
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=0xV0RT3X&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Stats
-
-<p align="left">
-  <a href="https://github.com/0xV0RT3X">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xV0RT3X&theme=transparent" />
-  </a>
-  <a href="https://github.com/0xV0RT3X">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xV0RT3X&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/0xV0RT3X">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xV0RT3X&theme=transparent" />
-  </a>
-  <a href="https://github.com/0xV0RT3X">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xV0RT3X&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/0xV0RT3X">
-    <img src="https://komarev.com/ghpvc/?username=0xV0RT3X&color=blue&style=flat)" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
