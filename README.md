@@ -1,17 +1,39 @@
-# 🌀 0xV0RT3X
-Welcome to my GitHub profile! I'm passionate about coding and exploring various programming languages and tools. Feel free to browse through my repositories and projects.
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xV0RT3X&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xV0RT3X&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xV0RT3X&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=363636&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+0xV0RT3X" alt="Typing SVG" />
+  </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xV0RT3X&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <p>
+    Feel free to browse through my projects.
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=0xV0RT3X&icon=0&color=0)](https://visitcount.itsvg.in)
+  ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ### 💻 Tech Stack
+  <p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+  </p>
+
+  ---
+
+  ### 📊 My Stats
+
+  <table>
+    <tr valign="top">
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=0xV0RT3X&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xV0RT3X&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+</div>
